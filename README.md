@@ -1,4 +1,4 @@
-🚌 **Análisis y Predicción de Demanda de Transporte Público – EMT Madrid (Python, Pandas, scikit-learn)**
+# 🚌 Análisis y Predicción de Demanda de Transporte Público – EMT Madrid (Python, Pandas, scikit-learn)
 
 Este proyecto analiza la **demanda diaria de viajeros en las líneas de autobús de EMT Madrid** durante 2025 y propone un **modelo predictivo sencillo** para anticipar picos de demanda y apoyar la planificación de recursos.
 
@@ -36,3 +36,22 @@ El objetivo es practicar **Data Analytics, visualización de datos y Machine Lea
 
 ## 🗂️ Estructura del proyecto
 
+```text
+transporte-publico-analytics/
+├── data/
+│ ├── raw/
+│ │ └── DemandaDiaLinea2025.csv
+│ └── processed/
+├── notebooks/
+│ ├── 01_exploracion.ipynb
+│ └── 02_modelado.ipynb
+├── scripts/
+│ └── pipeline.py
+├── outputs/
+│ ├── graficos/
+│ └── predicciones.csv
+├── README.md
+└── requirements.txt
+```
+
+---
