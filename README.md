@@ -55,3 +55,21 @@ transporte-publico-analytics/
 ```
 
 ---
+
+## 🔄 Flujo de trabajo
+
+1. Carga del dataset CSV en Pandas  
+2. Exploración de datos (`df.info()`, `df.describe()`, valores nulos)  
+3. Limpieza y agregación por línea y mes  
+4. Visualización de resultados con Matplotlib y Seaborn  
+5. Modelado predictivo ligero (opcional)  
+6. Interpretación de resultados orientada a la **toma de decisiones**  
+
+---
+
+## ▶️ Cómo ejecutar
+
+1. Clonar el repositorio:
+```bash
+git clone <URL_DEL_REPOSITORIO>
+cd transporte-publico-analytics
