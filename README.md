@@ -93,3 +93,17 @@ tp-env\Scripts\activate     # Windows
 ```bash
 jupyter notebook notebooks/01_exploracion.ipynb
 ```
+
+---
+
+## 🛠️ Tecnologías utilizadas
+- Python 3.x
+- Pandas, Matplotlib, Seaborn, scikit-learn
+- Jupyter Notebook
+- Git y GitHub
+
+---
+
+## 👤 Autor
+**Autor:** Andrés Matesanz  
+[LinkedIn](https://www.linkedin.com/in/andresmatesanz/) | [GitHub](https://github.com/andresmatesanz)
