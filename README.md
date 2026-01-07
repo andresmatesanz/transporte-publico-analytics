@@ -73,3 +73,23 @@ transporte-publico-analytics/
 ```bash
 git clone <URL_DEL_REPOSITORIO>
 cd transporte-publico-analytics
+```
+
+2. Crear y activar entorno virtual (opcional):
+```bash
+python -m venv tp-env
+source tp-env/bin/activate  # Linux / Mac
+tp-env\Scripts\activate     # Windows
+```
+
+3. Instalar dependencias:
+```bash
+python -m venv tp-env
+source tp-env/bin/activate  # Linux / Mac
+tp-env\Scripts\activate     # Windows
+```
+
+4. Abrir y ejecutar notebooks:
+```bash
+jupyter notebook notebooks/01_exploracion.ipynb
+```
